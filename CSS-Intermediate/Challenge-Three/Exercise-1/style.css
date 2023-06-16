@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 90%;
+    margin-left: 10px;
+}
+
+div, bottom-panel {
+    display: inline-block;
+    height: 100px;
+}
+
+.container {
+    margin: 20px 0px;
+    width: 100%;
+}
+
+.left-panel {
+    width: 35%;
+    background: red;
+    margin-right: 2%;
+}
+
+.right-panel {
+    width: 60%;
+    background: lightblue;
+}
+
+.bottom-panel {
+    width: 97.2%;
+    background: yellow;
+}
+
+.left-panel, .right-panel, .bottom-panel {
+    border: solid black 3px;
+}
+
