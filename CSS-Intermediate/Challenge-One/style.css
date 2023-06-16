@@ -1,0 +1,45 @@
+body {
+	background: #364371;
+	text-align: center;
+	overflow:auto;
+
+}
+#wrap {
+	width: 650px;
+	height: 430px;
+	margin:auto;
+}
+#nav {
+	background: #B0CFFF;
+	float: left;
+	width: 150px;
+	height: 430px;
+}
+
+h1{
+	padding-top: 15px;
+}
+
+#nav>ul {
+	text-align: left;
+}
+
+#content {
+	background: #5B7FBD;
+	height: 430px;
+	width: 650px;
+	margin-right: 10%;
+}
+
+#content>ul {
+	list-style-type: none;
+	background: #5B7FBD;
+	font-size: 17px;
+}
+
+.copyright {
+	clear: both;
+}
+#content>p{
+	padding-left: 120px;
+}
