@@ -1,0 +1,33 @@
+div {
+	border: dashed black 3px;
+	text-align: center;
+	margin: 0px 100px 0px 100px;
+}
+
+p {
+	text-align: left;
+	margin-top: 0px;
+	margin-left: 5px;
+}
+
+h1 {
+	border-bottom: dashed black;
+	margin-top: 0px;
+
+}
+
+ul, li {
+	background: #F5F5DC;
+	list-style-type: none;
+	
+}
+
+span {
+	font-size: 25px;
+	font-weight: 800;
+}
+
+.copyright {
+	text-align: center;
+	margin: auto;
+}
