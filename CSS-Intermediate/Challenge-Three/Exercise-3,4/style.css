@@ -1,0 +1,38 @@
+div {
+    border: solid black 3px;
+}
+
+.top-panel {
+    background: green;
+    border: solid black 3px;
+    height: 200px;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    margin-top: 30px ;
+}
+
+.box {
+    height: 200px;
+    width: 32%;
+}
+
+img {
+    height: inherit;
+    width: 100%;
+}
+
+.first-panel {
+    background: orange;
+}
+
+.second-panel {
+    background: red;
+}
+
+.third-panel {
+    background: blue;
+}
