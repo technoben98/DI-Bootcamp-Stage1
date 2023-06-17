@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+}
+
+body {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.top-panel {
+    background: violet;
+    border: solid black 3px;
+    height: 200px;
+}
+
+.panels {
+    height: 400px;
+    margin-top: 5%;
+}
+
+.first-panel {
+    float: left;
+    background: red;
+    border: solid black 3px;
+    height: 500px;
+    width: 30%;
+}
+
+.second-panel {
+    float: left;
+    margin-left: 5%;
+    left: 300px;
+    background: green;
+    border: solid black 3px;
+    height: 500px;
+    width: 30%;
+}
+
+.third-panel {
+    float: left;
+    margin-left: 5%;
+    background: orange;
+    border: solid black 3px;
+    width: 30%;
+    height: 500px;
+}
