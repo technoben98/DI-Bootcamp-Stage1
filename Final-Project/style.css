@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    width: 100vw;
+}
+
+#main-menu {
+    list-style: none;
+    border-bottom: 1px black solid;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+
+.navigator {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 15px;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    color: blue;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+#main-photo {
+    display: block;
+    height: 70%;
+    width: 70%;
+    margin: 0 auto;
+}
+
+main {
+    border-bottom: 1px solid black;
+}
