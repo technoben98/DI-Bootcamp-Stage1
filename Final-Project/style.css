@@ -45,12 +45,13 @@ main {
     text-decoration: none;
 }
 
-#keanu {
+#keanu a{
     color: black;
     font-size: 72px;
     font-family: 'Gasoek One', sans-serif;
     text-align: center;
     margin-bottom: 20px;
+    height: 70px;
 }
 
 a{
@@ -224,6 +225,7 @@ section {
 }
 
 /* Footer */
+
 footer {
     margin: 10px;
     text-align: center;
