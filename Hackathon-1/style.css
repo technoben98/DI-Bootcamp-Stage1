@@ -198,7 +198,7 @@ li{
 }
 
 #links img {
-    height: 6vh;
+    height: 5vh;
 }
 
 #links a{
@@ -209,6 +209,10 @@ li{
 #links p{
     color: black;
     text-align: center;
+}
+
+#haifa-wiki {
+    margin-left: 1vh;
 }
 
 
