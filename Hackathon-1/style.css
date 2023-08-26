@@ -197,6 +197,10 @@ li{
     margin-right: auto;
 }
 
+#links a:hover{
+    scale: 1.1;
+}
+
 #links img {
     height: 5vh;
 }
